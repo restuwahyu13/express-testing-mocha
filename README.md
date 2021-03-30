@@ -1,3 +1,3 @@
-## Express TDD Testing With Mocha
+## Express Testing With Mocha
 
-test driven development with mocha and chai
+development testing with mocha and chai
